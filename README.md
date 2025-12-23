@@ -1,5 +1,5 @@
 # Sandbox Runner (Python Runtime Sandbox)
-
+Author: AreyMadhav
 Python runtime sandbox for dynamic analysis. Intercepts common I/O channels (process creation, DNS lookups, socket connects, HTTP requests) while streaming target stdout. Built for ethical research, incident response, and malware analysis in controlled environments.
 
 ## Safety and ethics
@@ -53,3 +53,4 @@ For Python-mode runs, a temp dir holds `sitecustomize.py` and `events.jsonl`; it
 
 ## License
 MIT. See LICENSE for full text.
+
